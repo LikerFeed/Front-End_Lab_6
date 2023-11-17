@@ -1,2 +1,1 @@
-# Front-End_Lab_6
-Front-End Lab 6
+[GitHub Pages deploy](https://likerfeed.github.io/Front-End_Lab_6/)
